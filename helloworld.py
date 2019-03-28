@@ -1,1 +1,5 @@
 print("Hello World")
+Food_1=input("What is your favourite food")
+Food_2=input("What do you hate")
+print(Food_1,Food_2)
+print(Food_1+Food_2)
